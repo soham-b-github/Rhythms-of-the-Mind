@@ -9,4 +9,3 @@ This project was done by the team "<b>Bhattacharya Brothers </b>", whose team me
 -- Bhattacharya Brothers<br>
     &nbsp;&nbsp;&nbsp;24 November, 2024
 <br>
-![](logo.png)
